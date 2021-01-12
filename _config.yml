@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 张喆的博客
 subtitle: ''
 description: ''
 keywords:
@@ -105,5 +105,5 @@ theme: nexmoe
 deploy:
   type: git
   #repo改为repo: git@你的域名:/var/repo/hexo.git
-  repo: root@dlame.com:/var/repo/hexo.git
+  repo: git@47.110.245.124:/var/repo/hexo.git
   branch: master
